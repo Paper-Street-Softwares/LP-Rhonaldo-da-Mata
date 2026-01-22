@@ -2,7 +2,7 @@
   "infos": {
     "adress": "Rua N, nº 9, <br/> Bairro Despraiado, <br/> Cuiabá - MT, <br/> CEP: 78049-320",
     "adressSecundario": "A_Definir",
-    "expediente": "Atendimento 24h todos os dias",
+    "expediente": "Horário de expediente: <br/> 8h às 18h",
     "expedienteSecundario": "A_Definir",
     "obs": "A_Definir"
   },
@@ -17,42 +17,42 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "ADVOGADO CRIMINALISTA",
-    "title": "Quando a liberdade <span class=\"text-primary font-bold\">está em jogo</span>",
-    "subtitle": "Defesa criminal feita com estratégia, coragem e resultados que transformam casos difíceis em vitórias reais.",
+    "miniTag": "ADVOGADO TRABALHISTA",
+    "title": "Evite <span class=\"text-primary font-bold\">prejuízos</span> em causas trabalhistas",
+    "subtitle": "Atuação estratégica para defender seus direitos, evitar prejuízos e buscar o que é justo para você.",
     "ctaButtonText": "Falar com o advogado",
     "obsHero": {
-      "text": "Atendimento disponível 24 horas."
+      "text": "Atendimento personalizado em questões trabalhistas."
     }
   },
   "features": {
-    "miniTag": "Áreas de Atuação",
-    "title": "Compromisso com a defesa dos seus direitos",
-    "subtitle": "Atuação dedicada em diversas frentes do Direito Criminal, com estratégia, ética e experiência.",
+    "miniTag": "ÁREAS DE ATUAÇÃO",
+    "title": "Atuação estratégica em Direito do Trabalho",
+    "subtitle": "Soluções jurídicas para proteger seus direitos, reduzir riscos e lidar com conflitos trabalhistas com segurança.",
     "card1": {
-      "title": "Defesa em Processos Criminais",
-      "subtitle": "Defesa estratégica em todas as fases do processo penal. ",
+      "title": "Reclamações Trabalhistas",
+      "subtitle": "Busca de direitos e verbas trabalhistas de forma estratégica.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "Prisão em Flagrante e Liberdade Provisória",
-      "subtitle": "Atuação rápida para garantir liberdade e seus direitos. ",
+      "title": "Defesa do Empregador",
+      "subtitle": "Redução de riscos e defesa técnica em ações trabalhistas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "Tribunal do Júri",
-      "subtitle": "Defesa técnica em crimes dolosos contra a vida. ",
+      "title": "Verbas Rescisórias e Acordos",
+      "subtitle": "Análise de valores e condução de acordos seguros.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "Crimes Econômicos e Empresariais",
-      "subtitle": "Atuação em casos de fraude e delitos financeiros. ",
+      "title": "Defesa do Executado e Bloqueio Judicial",
+      "subtitle": "Atuação para desbloqueio de contas e proteção da renda.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
