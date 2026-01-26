@@ -1,30 +1,30 @@
-import React from "react";
-import { useTranslation } from "react-i18next";
-import SectionArea from "../sectionElements/SectionArea";
-import SectionHeader from "../sectionElements/SectionHeader";
-import SectionWrapper from "../sectionElements/SectionWrapper";
-import MotionDivDownToUp from "../animation/MotionDivDownToUp";
-import SocialPrint from "../sectionElements/aboutInstagram/SocialPrint";
-import DefaultInstagram from "../sectionElements/aboutInstagram/DefaultInstagram";
-import ParagraphsAboutSocial from "../sectionElements/aboutInstagram/ParagraphsAboutSocial";
-import RedesSociais from "../sectionElements/aboutInstagram/RedesSociais";
+import React from 'react'
+import { useTranslation } from 'react-i18next'
+import SectionArea from '../sectionElements/SectionArea'
+import SectionHeader from '../sectionElements/SectionHeader'
+import SectionWrapper from '../sectionElements/SectionWrapper'
+import MotionDivDownToUp from '../animation/MotionDivDownToUp'
+import SocialPrint from '../sectionElements/aboutInstagram/SocialPrint'
+import DefaultInstagram from '../sectionElements/aboutInstagram/DefaultInstagram'
+import ParagraphsAboutSocial from '../sectionElements/aboutInstagram/ParagraphsAboutSocial'
+import RedesSociais from '../sectionElements/aboutInstagram/RedesSociais'
 
 export default function AboutInstagram({ socialPrint, colorMode }) {
-  const { t } = useTranslation();
+  const { t } = useTranslation()
 
   // Definir classes de tema
   const bgClasses = {
-    dark: "bg-bgFixedDark",
-    light: "bg-bgFixedLight",
-    default: "bg-bgSectionDark",
-  };
+    dark: 'bg-bgFixedDark',
+    light: 'bg-bgFixedLight',
+    default: 'bg-bgSectionDark',
+  }
   const textClasses = {
-    dark: "text-white",
-    light: "text-secondary",
-    default: "text-white",
-  };
-  const bgClass = bgClasses[colorMode] || bgClasses.default;
-  const textClass = textClasses[colorMode] || textClasses.default;
+    dark: 'text-white',
+    light: 'text-secondary',
+    default: 'text-white',
+  }
+  const bgClass = bgClasses[colorMode] || bgClasses.default
+  const textClass = textClasses[colorMode] || textClasses.default
 
   return (
     <SectionArea id="about" className={`${bgClass}`} paddingtop={false}>
@@ -38,8 +38,8 @@ export default function AboutInstagram({ socialPrint, colorMode }) {
           <MotionDivDownToUp>
             <SectionHeader
               className={`text-center`}
-              miniTitle={t("about.aboutSocial.miniTag")}
-              sectionHeaderTitle={t("about.aboutSocial.title")}
+              miniTitle={t('about.aboutSocial.miniTag')}
+              sectionHeaderTitle={t('about.aboutSocial.title')}
               // sectionHeaderSubtitle={t("about.aboutSocial.subtitle")}
               type="article"
               titleColorSet={textClass}
@@ -59,5 +59,5 @@ export default function AboutInstagram({ socialPrint, colorMode }) {
         </div>
       </SectionWrapper>
     </SectionArea>
-  );
+  )
 }
