@@ -111,7 +111,7 @@ export const infos = {
   facebookProfile: '',
   linkeDinProfile: '',
   x: '',
-  tiktokProfile: 'rhonaldodamata763',
+  tiktokProfile: '',
 
   whatsappDefaultMessage:
     'Olá! Vim através do site de vocês e gostaria de tirar umas dúvidas.',
