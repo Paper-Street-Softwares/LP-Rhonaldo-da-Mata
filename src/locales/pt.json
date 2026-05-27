@@ -17,42 +17,42 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "ADVOGADO TRABALHISTA",
-    "title": "Evite <span class=\"text-primary font-bold\">prejuízos</span> em causas trabalhistas",
-    "subtitle": "Atuação estratégica para defender seus direitos, evitar prejuízos e buscar o que é justo para você.",
+    "miniTag": "ADVOCACIA TRABALHISTA E CRIMINAL",
+    "title": "Defesa estratégica para proteger seus direitos",
+    "subtitle": "Atuação jurídica personalizada em causas trabalhistas e criminais, com foco em segurança, agilidade e defesa técnica em momentos decisivos.",
     "ctaButtonText": "Falar com o advogado",
     "obsHero": {
-      "text": "Atendimento personalizado em questões trabalhistas."
+      "text": "Atendimento humanizado e estratégico em demandas trabalhistas e criminais."
     }
   },
   "features": {
     "miniTag": "ÁREAS DE ATUAÇÃO",
-    "title": "Atuação estratégica em Direito do Trabalho",
-    "subtitle": "Soluções jurídicas para proteger seus direitos, reduzir riscos e lidar com conflitos trabalhistas com segurança.",
+    "title": "Atuação estratégica nas áreas Trabalhista e Criminal",
+    "subtitle": "Suporte jurídico técnico e acompanhamento próximo para defender seus direitos e enfrentar situações delicadas com mais segurança.",
     "card1": {
-      "title": "Reclamações Trabalhistas",
-      "subtitle": "Busca de direitos e verbas trabalhistas de forma estratégica.",
+      "title": "Direito Trabalhista",
+      "subtitle": "Atuação em reclamações trabalhistas, verbas rescisórias, acordos e defesa do empregador.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "Defesa do Empregador",
-      "subtitle": "Redução de riscos e defesa técnica em ações trabalhistas.",
+      "title": "Direito Criminal",
+      "subtitle": "Defesa em flagrantes, audiências de custódia, inquéritos policiais e processos criminais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "Verbas Rescisórias e Acordos",
-      "subtitle": "Análise de valores e condução de acordos seguros.",
+      "title": "Defesa do Executado e Bloqueio Judicial",
+      "subtitle": "Atuação para desbloqueio de contas, proteção patrimonial e defesa em medidas judiciais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "Defesa do Executado e Bloqueio Judicial",
-      "subtitle": "Atuação para desbloqueio de contas e proteção da renda.",
+      "title": "Atendimento Preventivo",
+      "subtitle": "Orientação jurídica para reduzir riscos, evitar prejuízos e buscar soluções seguras para cada caso.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
